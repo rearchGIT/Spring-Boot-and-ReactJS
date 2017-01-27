@@ -1,0 +1,5 @@
+com/react/DatabaseLoader.class
+com/react/ReactApplication.class
+com/react/controller/HomeController.class
+com/react/domain/Person.class
+com/react/repository/PersonRepository.class
