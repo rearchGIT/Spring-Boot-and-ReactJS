@@ -1,5 +1,0 @@
-./browser.js linguist-vendored
-./jquery.min.js linguist-vendored
-./react-dom.js linguist-vendored
-./react.min.js linguist-vendored
-./toastr.min.js linguist-vendored
